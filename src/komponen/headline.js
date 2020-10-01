@@ -19,7 +19,7 @@ function head(){
       <div className="newspaper__subheader">
         <div className="divider"></div>
         <div className="newspaper__subheader__content">
-          <span>Nama Author</span>
+          <span>Aulia Agustina</span>
           <span></span>
           <span>{getdate} - {date.getMonth()} - {date.getFullYear()}</span>
         </div>
