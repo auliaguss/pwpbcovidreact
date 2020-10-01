@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Change directory to src and then run
+
 ### `json-server -p 8000 db.json`
 
 Runs the local json server for databases
