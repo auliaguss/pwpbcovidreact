@@ -1,0 +1,25 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Indonesia OTW Bebas Corona",
+            "date": "19 Mei 2020",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.",
+            "image": "1.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Indonesia OTW Bebas Corona",
+            "date": "19 Mei 2020",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.",
+            "image": "1.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Indonesia OTW Bebas Corona",
+            "date": "19 Mei 2020",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.",
+            "image": "1.jpg"
+        }
+    ]
+}
